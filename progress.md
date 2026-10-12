@@ -6,8 +6,7 @@ Handover notes for any agent picking this up.
 
 - v1 working; tested on Kamil's PC with the real grabber but **without a source
   signal** (nothing connected). Real-tape test is the next step.
-- Repo prepared for GitHub, **not pushed**. Planned remote:
-  `github.com/ErynVornTechnologies/VHS-Capture` (name to be confirmed by Kamil).
+- Published 2026-10-12 (public): https://github.com/ErynVornTechnologies/VHS-Capture
 - Request (Kamil): app like Video Enhancer, but for capturing old VHS and camcorder
   tapes, with a choice of output folder; default = app folder (`captures\` inside it).
 
@@ -90,4 +89,4 @@ File `captures\Tape_2026-10-10_17-40-33.mkv`, recorded with "Compact H.264":
       fps lock to 25 with a PAL signal, dropped frames over a full hour, file size per hour.
 - [ ] Check what the VCR shows after the tape ends (blue/black = auto-stop works; snow = time limit only).
 - [ ] Optional: trim the trailing no-signal part automatically after auto-stop.
-- [ ] Push to GitHub.
+- [x] Pushed to GitHub 2026-10-12.
