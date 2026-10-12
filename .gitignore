@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local environment (created by INSTALL.bat)
+.venv/
+venv/
+
+# Your recordings and per-user settings
+captures/
+settings.json
+*.mkv
+*.mp4
+*.avi
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
